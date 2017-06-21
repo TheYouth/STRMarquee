@@ -8,7 +8,7 @@ autoLabel.textColor = [UIColor redColor];
 //    autoLabel.speed = 70;
 //    autoLabel.labelBetweenGap = 10;
 [self.view addSubview:autoLabel];
-！[]https://github.com/TheYouth/STRMarquee/blob/master/screenShots/%E8%B7%91%E9%A9%AC%E7%81%AF%E6%95%88%E6%9E%9C%E5%9B%BE.gif
+![]https://github.com/TheYouth/STRMarquee/blob/master/screenShots/%E8%B7%91%E9%A9%AC%E7%81%AF%E6%95%88%E6%9E%9C%E5%9B%BE.gif
 =======
 # STRMarquee
 跑马灯，向左或向右滚动label
