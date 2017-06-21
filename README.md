@@ -10,6 +10,7 @@ autoLabel.textColor = [UIColor redColor];
 //    autoLabel.labelBetweenGap = 10;
 
 [self.view addSubview:autoLabel];
+
 =======
 # STRMarquee
 跑马灯，自动滚动label
