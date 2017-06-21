@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 STRAutoScrollLabel *autoLabel = [[STRAutoScrollLabel alloc] initWithFrame:CGRectMake(10, 30, 200, 40)];
 //设置文字
@@ -9,3 +10,7 @@ autoLabel.textColor = [UIColor redColor];
 //    autoLabel.labelBetweenGap = 10;
 
 [self.view addSubview:autoLabel];
+=======
+# STRMarquee
+跑马灯，自动滚动label
+>>>>>>> af78783273c0c04423afcb1b3453d05dee8493db
