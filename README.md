@@ -13,3 +13,4 @@ autoLabel.textColor = [UIColor redColor];
 # STRMarquee
 跑马灯，向左或向右滚动label
 
+
